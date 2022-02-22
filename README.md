@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uzokhan
-- 👀 I’m interested in art and game develop
+- 👋 Hi, I’m @uzokhan im a visual artist.
+- 👀 I’m interested in art and game development
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
